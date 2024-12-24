@@ -3,9 +3,9 @@
 I am Sahith Kudupudi, I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sahith_K-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahithdotk/)](https://www.linkedin.com/in/sahithdotk)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Hashnode Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://sahithdotk.hashnode.dev/)](https://sahithdotk.hashnode.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-sahith_dot_k-DD2A7B?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sahith_dot_k/)](https://www.instagram.com/sahith_dot_k/)
+[![Hashnode Badge](https://img.shields.io/badge/-Sahith_Kudupudi-285FF7?style=flat-square&labelColor=000000&logo=Hashnode&link=https://sahithdotk.hashnode.dev/)](https://sahithdotk.hashnode.dev/)
+[![Gmail Badge](https://img.shields.io/badge/-sahithdotk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahithdotk@gmail.com)](mailto:sahithdotk@gmail.com)
 
 ## ⚡ Technologies
 
