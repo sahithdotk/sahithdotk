@@ -29,7 +29,7 @@ I am Sahith Kudupudi, I am a tech enthusiast & an open-source advocate. Always o
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sahithdotk&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sahithdotk&hide=contribs,prs&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahithdotk&theme=highcontrast&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahithdotk&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
